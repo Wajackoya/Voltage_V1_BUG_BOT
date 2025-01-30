@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2349155298855"
-global.ownername = "Voltage Lord👑"
+global.ownernomer = "254102510747"
+global.ownername = "WAJACKS"
 global.ytname = "YT: Voltagelordprotech"
 global.socialm = "GitHub: VoltageLord"
 global.location = "Nigeria, Edo, Benin"
 
-global.ownernumber = '2349155298855'  //creator number
-global.ownername = 'Voltage Lord' //owner name
+global.ownernumber = '254102510747'  //creator number
+global.ownername = 'WAJACKS' //owner name
 global.botname = 'Voltage_V1_BUG_BOT' //name of the bot
 
 //sticker details
@@ -40,7 +40,7 @@ global.autoswview = false //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v1'
+global.typemenu = 'v4'
 
 //text bug
 global.xbugtex = {
